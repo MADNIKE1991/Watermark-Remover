@@ -1,0 +1,5 @@
+{
+  "name": "AI Watermark Remover",
+  "description": "An intelligent tool to remove watermarks from images using AI inpainting. Upload an image, select the watermark, and let Gemini seamlessly fill the area.",
+  "requestFramePermissions": []
+}
